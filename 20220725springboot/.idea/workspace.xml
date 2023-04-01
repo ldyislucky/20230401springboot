@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="422ef892-180a-43ee-a2b3-c5899a26fe9b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../20220728springboot_mybatiesplus/plus1_start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20220728springboot_mybatiesplus/plus1_start/pom.xml" afterDir="false" />
+    <list default="true" id="422ef892-180a-43ee-a2b3-c5899a26fe9b" name="Changes" comment="重新部署了一下文档结构">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/20220725springbootstart" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20220728springboot_mybatiesplus" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -228,8 +228,16 @@
       <workItem from="1680229210348" duration="1202000" />
       <workItem from="1680241005830" duration="3952000" />
       <workItem from="1680247803628" duration="6697000" />
-      <workItem from="1680334641009" duration="142000" />
+      <workItem from="1680334641009" duration="893000" />
     </task>
+    <task id="LOCAL-00001" summary="重新部署了一下文档结构">
+      <created>1680334948316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680334948316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +254,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="重新部署了一下文档结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="重新部署了一下文档结构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
