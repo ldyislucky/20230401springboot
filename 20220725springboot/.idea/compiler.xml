@@ -9,6 +9,7 @@
         <module name="boot1_baseconfig" />
         <module name="boot3_mybaties" />
         <module name="boot4_ssm" />
+        <module name="20220725springbootstart" />
         <module name="boot2_junity" />
       </profile>
     </annotationProcessing>
@@ -19,6 +20,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="20220725springbootstart" options="-parameters" />
       <module name="boot1_baseconfig" options="-parameters" />
       <module name="boot2_junity" options="-parameters" />
       <module name="boot3_mybaties" options="-parameters" />
