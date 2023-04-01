@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="20220620infuse_collection" />
+        <module name="20220702spring_mybaties" />
+        <module name="20220618infuse" />
+        <module name="20220723springmvc" />
+        <module name="20220618springbean" />
+        <module name="20220618infuseconstruction" />
+        <module name="20220707_AOP" />
+        <module name="20220709AopTest" />
+        <module name="20220710Transfer" />
+        <module name="20220620anotationconfig" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="20220709soptest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

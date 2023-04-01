@@ -1,0 +1,13 @@
+server:
+  port: 80
+
+lesson: springboot
+
+enterprise:
+  name: ldy
+  age: 18
+  tel: 178
+  arr:
+    -java
+    -前端
+    -大数据
