@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="422ef892-180a-43ee-a2b3-c5899a26fe9b" name="Changes" comment="重新部署了一下文档结构">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20220728springboot_mybatiesplus/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220725springbootstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20220725springbootstart/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20220728springboot_mybatiesplus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -229,6 +230,7 @@
       <workItem from="1680241005830" duration="3952000" />
       <workItem from="1680247803628" duration="6697000" />
       <workItem from="1680334641009" duration="893000" />
+      <workItem from="1680337331001" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="重新部署了一下文档结构">
       <created>1680334948316</created>
